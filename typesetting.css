@@ -113,6 +113,7 @@ body.lb-disable-scrolling {
   height: auto;
   max-width: inherit;
   border-radius: 3px;
+  margin: 0px;
 }
 
 .lightbox a img {
